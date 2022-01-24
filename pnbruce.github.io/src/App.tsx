@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
+import me2 from './me2.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+              <img src={me2} className="Me" alt = "me"/>
         <p>
           Welcome to Patrick Bruce's website!
         </p>

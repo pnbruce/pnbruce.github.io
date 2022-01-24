@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7fe4993d-9d12-47dc-b308-7acbbd1449f1": {
+      "ProjectGuid": "7fe4993d-9d12-47dc-b308-7acbbd1449f1",
+      "DisplayName": "pnbruce.github.io",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
